@@ -1,9 +1,9 @@
 json = {
 id: 39,
-front: null,
+front: nil,
 front_img: "https://cdn.filepicker.io/api/file/kEdffNGFTmWtkjEpkB9w",
 back: "Welcome to la Ceiba, Home of the Garifuna.",
-back_img: null,
+back_img: nil,
 upvotes: 0,
 lat: "48.4284207",
 lng: "-123.36564440000001",
