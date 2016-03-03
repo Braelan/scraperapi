@@ -1,2 +1,11 @@
-json = { :foo => 'bar' }
-json[:baz] = key
+json = {
+id: 39,
+front: null,
+front_img: "https://cdn.filepicker.io/api/file/kEdffNGFTmWtkjEpkB9w",
+back: "Welcome to la Ceiba, Home of the Garifuna.",
+back_img: null,
+upvotes: 0,
+lat: "48.4284207",
+lng: "-123.36564440000001",
+updated_at: "2016-03-02T17:50:38.026Z"
+}
